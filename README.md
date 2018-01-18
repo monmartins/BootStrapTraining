@@ -1,0 +1,2 @@
+# BootStrapTraining
+Example of bootstrap
